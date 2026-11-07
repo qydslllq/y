@@ -1,0 +1,10 @@
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+pyTelegramBotAPI
+pyrogram
+TgCrypto
+psycopg2-binary
+requests
+torch
+numpy
+telethon
